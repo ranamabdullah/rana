@@ -1,0 +1,9 @@
+composer install
+localhost/phpmyadmin
+.env example k name sy file ho ge usy copy kr k .env file bnani hi r .env example ko delete kr dain
+.env sy database ka name lain r copy kr k phpmyadmin main ja k db bna lain
+php artisan migrate
+php artisan key:generate
+npm install
+npm run build
+php artisan serve
